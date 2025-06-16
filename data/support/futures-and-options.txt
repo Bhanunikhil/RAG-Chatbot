@@ -1,0 +1,318 @@
+Introduction to Futures and Options(F&O) Trading | Angel One
+Calculate your SIP Return
+Open Demat Account
+Stocks
+Knowledge Center
+Blogs
+Reports
+Podcasts
+Related Search
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Popular Stocks
+SBI Share Price
+Adani Enterprises Share Price
+Reliance Share Price
+Mazagon Dock Share Price
+ITC Share Price
+HDFC Bank Share Price
+Infosys Share Price
+Adani Ports Share Price
+TCS Share Price
+Tata Motors Share Price
+Stocks
+Knowledge Center
+Blogs
+Reports
+Podcasts
+Related Search
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Popular Stocks
+SBI Share Price
+Adani Enterprises Share Price
+Reliance Share Price
+Mazagon Dock Share Price
+ITC Share Price
+HDFC Bank Share Price
+Infosys Share Price
+Adani Ports Share Price
+TCS Share Price
+Tata Motors Share Price
+Open Demat Account
+Open Demat Account
+Login
+Open Demat Account
+Open Demat Account
+Login
+Trade & Invest
+Stocks
+Indices
+NFO
+ETF
+Commodity
+Upcoming IPO
+Mutual Funds & SIP
+SIP Calculator
+Mutual Funds
+AMCs
+Types of Mutual Fund
+Mutual Fund Screener
+Learn
+Live Blog
+Knowledge Center
+Smart Money
+Finance Wiki
+News
+Products
+Angel One Super App
+Angel One Trade
+Smart API
+Become a Partner
+Authorised Person
+Mutual Fund Distributor
+Authorised Person Locator
+Pricing
+Support
+User Manual
+Read FAQs
+Contact Us
+Download App
+Home
+›
+Knowledge Center
+›
+Futures and options Trading
+Futures and options Trading
+4 mins read
+by
+Angel One
+EN
+తెలుగు
+ગુજરાતી
+Derivatives come handy for protection against price fluctuations. There are two types of derivatives –
+future and options
+. Apart from being a hedge against price fluctuations, they can be traded on exchanges such as
+commodities
+, stocks, and currency.
+Future and
+option trading
+enable those, who are disinterested in the underlying asset to profit from price fluctuations. For example, you are interested in F&O trading of wheat. You aren’t interested in hoarding tonnes of grains in your garage but, are keen to benefit from price fluctuations. Then, you can buy wheat futures and options without getting the
+commodity
+delivered to you. Most participants in the F&O market are speculators, who are not quite interested in the product. This is good as it contributes to the market’s liquidity.
+Future and Options
+F & O Stock List
+What are Futures
+Types of Futures
+Interest Rate Futures India
+Futures Trading
+What are Options
+OTC Options Definition
+What is Future Option?
+Best Options to Trade
+Options Trading: How to Trade Options
+How to Trade in Futures & Options
+Difference Between Futures & Options
+Best Futures to Trade
+How to Calculate F&O Turnover
+F&O Trading Income Tax
+Everything you need to know about F&O Stocks
+How to Trade in F&O?
+What is Options Trading
+How Does Exchange Rate Affect Investment Returns?
+A Comprehensive Guide To Calendar Spread
+Introduction to Foreign Exchange Market
+Option Greeks
+Call Writing - Writing Call Options
+Covered Call
+Load More
+Commodity
+Crude Oil Futures Trading in India
+Gold Futures
+Commodity Futures
+Index Futures: Meaning, Types & FAQS
+Silver Futures
+Copper Futures
+Zinc Futures
+Commodity Options
+Currency
+Emini Futures
+Currency Futures in India
+Put Options
+Stock Options
+Call Options
+Currency Options
+American Options
+FX Options: What is Forex Options?
+European Options
+FAQs
+What kinds of assets are available for F&O trading?
+There are several kinds of assets available for future option trading. They include agricultural commodities, stocks, minerals, energy, coal, currency, and so on.
+Where can I do futures and options trading?
+That depends on the underlying asset of the futures and options. For example, if you want to trade in F&O stocks, you will have to do it on a stock exchange like the Bombay Stock Exchange or the National Stock Exchange. If you want to trade in commodities, you will have to do it on a commodities exchange like the Multi Commodity Exchange of India (MCX) or National Commodity and Derivatives Exchange Limited (NCDEX).
+What is the margin?
+When you trade in futures and options, you must deposit a certain amount with your broker. This is called the initial margin. This is a percentage of the value of the transactions you carry out. For example, if the initial margin is 10 percent, and the value of your transactions is Rs 5 lakh, you will need to deposit Rs 50,000 with your broker. Margins are there to protect the broker against risk of volatility. Margins vary from asset to asset, depending on volatility. Generally, margins are lower in commodity markets. Initial margins will also be lower if positions are squared off intra-day. If you carry forward positions, you’ll have higher margins.
+If the price of an underlying asset reduces, the broker may ask you to deposit more additional margin money. This is called a `margin call’. The broker may sell the underlying asset without your consent if you don’t pay up the margin. So, you could land in losses if you don’t pay margin money quickly
+Which involves more risk – futures or options?
+Futures involve more risk than options because when you enter into a futures contract, you must carry through the contract. For example, if you agree to sell 100 shares of Company X at Rs 2,100 per share at a future date, and prices of X fall to Rs 1,900, you will have no option but to go through with the sale. Your losses will thus be (2100-1900) x 100, or Rs 20,000. On the other hand, if you enter into an options contract, there is no compulsion on your part to sell the shares. So, your losses will be restricted to the premium paid on the contract, which will be much lower.
+Commodities or equity: Which should I choose?
+The potential for profit is there in both kinds of derivatives. However, you must remember that commodity markets are far more volatile than share markets and are affected by a varied set of circumstances. Generally, large institutional players tend to dominate commodity markets.
+What is leverage?
+Leverage is the volume of transactions you can make with the margin money you have paid. Lower the initial margin, the higher the leverage. For example, if the margin money is 1 percent, by paying Rs 10,000, you can deal in transactions worth Rs 10 lakh. Larger the transactions, more the prospect of profit. However, the downside is that the risks are far higher. If your bet goes wrong, you could end up with huge losses. Leverage in commodities markets are lower; hence, the risks are higher too.
+Do I have to hold futures until the maturity date?
+No, that’s not required. You can actively trade futures, which means that you can sell or buy them any time before their expiry. For example, you have a futures contract to purchase the shares of Company A at Rs 500 a share on a specific date but, you discover that prices are likely to fall. You can then sell the contract before the expiry date.
+Open Free Demat Account!
+Join our 3 Cr+ happy customers
++91
+Want to open an NRI account?
+Top Stocks
+RELIANCE
+Reliance Industries Ltd
+₹1,428.00
+11.60
+(-0.81%)
+INFY
+Infosys Ltd
+₹1,602.50
+4.90
+(-0.30%)
+DMART
+Avenue Supermarts Ltd
+₹4,059.20
+15.20
+(-0.37%)
+PIDILITIND
+Pidilite Industries Ltd
+₹3,010.00
+37.35
+(-1.23%)
+HDFCBANK
+HDFC Bank Ltd
+₹1,919.60
+22.35
+(-1.15%)
+View All
+Top Gainers
+ROML
+Raj Oil Mills
+52.23
+10.44
+(19.99%)
+SHAH
+Shah Metacorp
+3.76
+0.75
+(19.95%)
+JUBLINGREA
+Jubilant Ingrev.
+682.00
+111.55
+(16.36%)
+NRAIL
+N R Agarwal Inds
+310.45
+48.55
+(15.64%)
+VISAMAN
+Visaman Global
+38.90
+4.00
+(10.28%)
+SCI
+S C I
+206.32
+20.74
+(10.05%)
+TCIFINANCE
+TCI Finance
+14.80
+1.48
+(10.00%)
+View All
+Top Losers
+BALUFORGE
+Balu Forge
+762.90
+-86.65
+(-11.36%)
+ONEPOINT
+One Point One
+58.91
+-5.94
+(-10.08%)
+BTML
+Bodhi Tree
+9.67
+-0.97
+(-10.03%)
+RUCHINFRA
+Ruchi Infrastr.
+8.80
+-0.87
+(-9.89%)
+SUVEN
+Suven Life Scie.
+260.57
+-24.54
+(-9.42%)
+ENERGYDEV
+Energy Devl.Co.
+27.96
+-2.63
+(-9.41%)
+GTLINFRA
+GTL Infra.
+2.05
+-0.18
+(-8.78%)
+View All
+Open Free Demat Account!
+Join our 3 Cr+ happy customers
++91
+4.4 Cr+
+DOWNLOADS
+Enjoy ₹0 Account Opening Charges
+Open Free Demat Account!
+₹0 brokerage for first 30 days*
+Join our 3 Cr+ happy customers
++91
+Enjoy Free Equity Delivery for Lifetime
+Open 100% free* demat & trading A/C now!
+Select current city
+Open My Account
+×
+Minimal Brokerage Charges
+₹0 brokerage on stock investments and flat ₹0 AMC for first year.
+ARQ Prime
+Make smart decisions with ARQ prime, a rule based investment engine
+Technology Enabled
+Trade or invest anywhere, anytime with our App or web platforms
+Fast-track your investing journey with Us,  India’s fastest growing fintech company
++91
+Select City
+By proceeding, I agree to
+T&C
+and
+Privacy Policy
+.
+Do you already have an account?
+Login
+Open an Account
+×
+Initializing Search...
+Copyright - All rights reserved
+We collect, retain, and use your contact information for legitimate business purposes only, to contact you and to provide you information & latest updates regarding our products & services.
+We do not sell or rent your contact information to third parties.
+Please note that by submitting the above mentioned details, you are authorizing us to Call/SMS you even though you may be registered under DND. We shall Call/SMS you for a period of 12 months.
+Brokerage will not exceed SEBI prescribed limits
+Disclaimer
+Privacy Policy
+Any Grievances related the aforesaid brokerage scheme will not be entertained on exchange platform.
