@@ -4,14 +4,14 @@ from rag_logic import answer_with_rag  # Import our backend logic
 # --- Page Configuration ---
 # This is the first Streamlit command to run, and it should only be run once.
 st.set_page_config(
-    page_title="Angel One Support Chatbot",
-    page_icon="🤖",
-    layout="centered"
+    page_title="Angel One Support Chatbot", page_icon="🤖", layout="centered"
 )
 
 # --- UI Elements ---
 st.title("🤖 Angel One Support Chatbot")
-st.caption("This chatbot is powered by Google Gemini and can only answer questions based on its knowledge base.")
+st.caption(
+    "This chatbot is powered by Google Gemini and can only answer questions based on its knowledge base."
+)
 
 if "messages" not in st.session_state:
     st.session_state.messages = []

@@ -18,22 +18,20 @@ EMBEDDING_MODEL = "models/embedding-001"
 GENERATION_MODEL = genai.GenerativeModel("gemini-1.5-flash-latest")
 
 
-#setting up the connect for ChromaDB
+# setting up the connect for ChromaDB
 client = PersistentClient(path=str(PERSIST_DIR))
-collection = client.get_or_create_collection(
-    name="angelone_support"
-)
+collection = client.get_or_create_collection(name="angelone_support")
+
 
 def embed_query(text: str) -> list:
     result = genai.embed_content(
-        model=EMBEDDING_MODEL,
-        content=text,
-        task_type="RETRIEVAL_QUERY"
+        model=EMBEDDING_MODEL, content=text, task_type="RETRIEVAL_QUERY"
     )
     emb = result.get("embedding")
     if not emb:
         raise RuntimeError("Failed to generate query embedding")
     return emb
+
 
 # ─── Retrieve top-k relevant chunks ──────────────────────────────────────────────
 def retrieve_chunks(query: str, k: int = 5) -> list:
@@ -41,10 +39,11 @@ def retrieve_chunks(query: str, k: int = 5) -> list:
     results = collection.query(
         query_embeddings=[q_emb],
         n_results=k,
-        include=["documents", "metadatas", "distances"]
+        include=["documents", "metadatas", "distances"],
     )
     docs = results.get("documents", [[]])[0]
     return docs
+
 
 # ─── Answer using RAG + Gemini Chat ─────────────────────────────────────────────
 def answer_with_rag(query: str, k: int = 5) -> str:
@@ -52,7 +51,6 @@ def answer_with_rag(query: str, k: int = 5) -> str:
     if not chunks:
         return "I Don't know"
     print(f"Retrieved {len(chunks)} relevant chunks for query: '{query}'")
-
 
     source_texts = "\n\n---\n\n".join(chunks)
     prompt = (
@@ -64,13 +62,16 @@ def answer_with_rag(query: str, k: int = 5) -> str:
     )
 
     try:
-        response = GENERATION_MODEL.generate_content(prompt, )
+        response = GENERATION_MODEL.generate_content(
+            prompt,
+        )
         return response.text
     except Exception as e:
         return f"Sorry, an error occurred during generation: {e}"
 
+
 # ─── Interactive loop for user queries ──────────────────────────────────────────
-'''if __name__ == "__main__":
+"""if __name__ == "__main__":
     print("RAG chatbot initialized. Type your question or 'exit' to quit.")
     while True:
         user_q = input("Question: ")
@@ -82,4 +83,4 @@ def answer_with_rag(query: str, k: int = 5) -> str:
             print(f"Answer: {ans}\n")
         except Exception as e:
             print(f"Error: {e}\n")
-            '''
+            """

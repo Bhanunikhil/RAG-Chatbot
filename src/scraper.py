@@ -4,13 +4,14 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from pathlib import Path
 
-BASE_URL   = "https://www.angelone.in"
+BASE_URL = "https://www.angelone.in"
 START_PATH = "/support"
 
 # Compute the project root and data directory
-ROOT = Path(__file__).parent.parent   # rag-chatbot/
+ROOT = Path(__file__).parent.parent  # rag-chatbot/
 SUPPORT_DIR = ROOT / "data" / "support"
 SUPPORT_DIR.mkdir(parents=True, exist_ok=True)
+
 
 def get_support_links():
     resp = requests.get(urljoin(BASE_URL, START_PATH))
@@ -23,6 +24,7 @@ def get_support_links():
     }
     return sorted(links)
 
+
 def fetch_page_text(url):
     resp = requests.get(url)
     resp.raise_for_status()
@@ -31,6 +33,7 @@ def fetch_page_text(url):
         tag.decompose()
     text = soup.get_text(separator="\n")
     return "\n".join(line.strip() for line in text.splitlines() if line.strip())
+
 
 def main():
     links = get_support_links()
@@ -42,6 +45,7 @@ def main():
         out_path.write_text(text, encoding="utf-8")
         print("  →", out_path.name)
     print("Done.")
+
 
 if __name__ == "__main__":
     main()
