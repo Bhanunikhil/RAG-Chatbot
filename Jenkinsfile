@@ -4,7 +4,9 @@ pipeline {
     agent {
         docker {
             image 'python:3.10-slim'
-            args '-u root' // Run as root user inside the container to avoid permission issues
+            // Add arguments to mount the Docker socket. This gives this container
+            // access to the host's Docker daemon, allowing it to run 'docker' commands.
+            args '-u root -v /var/run/docker.sock:/var/run/docker.sock'
         }
     }
     stages {
