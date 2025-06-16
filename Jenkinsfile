@@ -4,12 +4,6 @@ pipeline {
     agent any // This pipeline can run on any available Jenkins agent
 
     stages {
-        stage('Checkout Code') {
-            steps {
-                // *** IMPORTANT: Replace this URL with your GitHub repository URL ***
-                git 'https://github.com/Bhanunikhil/RAG-Chatbot'
-            }
-        }
 
         stage('Install Dependencies') {
             steps {
