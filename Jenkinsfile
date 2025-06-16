@@ -1,8 +1,12 @@
 // Jenkinsfile
 
 pipeline {
-    agent any // This pipeline can run on any available Jenkins agent
-
+    agent {
+        docker {
+            image 'python:3.10-slim'
+            args '-u root' // Run as root user inside the container to avoid permission issues
+        }
+    }
     stages {
 
         stage('Install Dependencies') {
