@@ -60,6 +60,7 @@ NFO
 ETF
 Commodity
 Upcoming IPO
+F&O
 Mutual Funds & SIP
 SIP Calculator
 Mutual Funds
@@ -176,103 +177,103 @@ Want to open an NRI account?
 Top Stocks
 RELIANCE
 Reliance Industries Ltd
-₹1,428.00
-11.60
-(-0.81%)
+₹1,410.40
+16.80
+(1.21%)
 INFY
 Infosys Ltd
-₹1,602.50
-4.90
-(-0.30%)
+₹1,481.40
+10.80
+(0.73%)
 DMART
 Avenue Supermarts Ltd
-₹4,059.20
-15.20
-(-0.37%)
+₹4,215.00
+17.75
+(0.42%)
 PIDILITIND
 Pidilite Industries Ltd
-₹3,010.00
-37.35
-(-1.23%)
+₹2,954.35
+96.65
+(3.38%)
 HDFCBANK
 HDFC Bank Ltd
-₹1,919.60
-22.35
-(-1.15%)
+₹1,994.90
+17.35
+(-0.86%)
 View All
 Top Gainers
-ROML
-Raj Oil Mills
-52.23
-10.44
-(19.99%)
-SHAH
-Shah Metacorp
-3.76
-0.75
-(19.95%)
-JUBLINGREA
-Jubilant Ingrev.
-682.00
-111.55
-(16.36%)
-NRAIL
-N R Agarwal Inds
-310.45
-48.55
-(15.64%)
-VISAMAN
-Visaman Global
-38.90
-4.00
-(10.28%)
-SCI
-S C I
-206.32
-20.74
-(10.05%)
-TCIFINANCE
-TCI Finance
-14.80
-1.48
-(10.00%)
+SARDAEN
+Sarda Energy
+439.30
+85.00
+(19.35%)
+MIRZAINT
+Mirza Internatio
+33.42
+4.76
+(14.24%)
+DTL
+Diensten Tech
+140.00
+17.80
+(12.71%)
+PENINLAND
+Peninsula Land
+34.29
+4.32
+(12.60%)
+TAINWALCHM
+Tainwala Chem.
+232.15
+28.97
+(12.48%)
+IDEALTECHO
+Ideal Technopl.
+178.00
+19.00
+(10.67%)
+EUROBOND
+Euro Panel
+204.28
+20.51
+(10.04%)
 View All
 Top Losers
-BALUFORGE
-Balu Forge
-762.90
--86.65
-(-11.36%)
-ONEPOINT
-One Point One
-58.91
--5.94
-(-10.08%)
-BTML
-Bodhi Tree
-9.67
--0.97
-(-10.03%)
-RUCHINFRA
-Ruchi Infrastr.
-8.80
--0.87
-(-9.89%)
-SUVEN
-Suven Life Scie.
-260.57
--24.54
-(-9.42%)
-ENERGYDEV
-Energy Devl.Co.
-27.96
--2.63
-(-9.41%)
-GTLINFRA
-GTL Infra.
-2.05
--0.18
-(-8.78%)
+ZIMLAB
+Zim Laboratories
+107.43
+-21.49
+(-20.00%)
+PSPPROJECT
+PSP Projects
+757.70
+-83.70
+(-11.05%)
+BHAGERIA
+Bhageria Indust.
+200.69
+-20.65
+(-10.29%)
+ADVENZYMES
+Advanced Enzyme
+360.35
+-31.20
+(-8.66%)
+VISHNU
+Vishnu Chemicals
+540.45
+-46.45
+(-8.59%)
+EPIGRAL
+Epigral
+1956.30
+-163.40
+(-8.35%)
+UTKARSHBNK
+Utkarsh Small F.
+21.91
+-1.73
+(-7.90%)
 View All
 Open Free Demat Account!
 Join our 3 Cr+ happy customers
@@ -297,7 +298,6 @@ Technology Enabled
 Trade or invest anywhere, anytime with our App or web platforms
 Fast-track your investing journey with Us,  India’s fastest growing fintech company
 +91
-Select City
 By proceeding, I agree to
 T&C
 and

@@ -60,6 +60,7 @@ NFO
 ETF
 Commodity
 Upcoming IPO
+F&O
 Mutual Funds & SIP
 SIP Calculator
 Mutual Funds
@@ -206,7 +207,6 @@ Technology Enabled
 Trade or invest anywhere, anytime with our App or web platforms
 Fast-track your investing journey with Us,  India’s fastest growing fintech company
 +91
-Select City
 By proceeding, I agree to
 T&C
 and

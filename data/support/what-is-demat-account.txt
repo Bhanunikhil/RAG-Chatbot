@@ -60,6 +60,7 @@ NFO
 ETF
 Commodity
 Upcoming IPO
+F&O
 Mutual Funds & SIP
 SIP Calculator
 Mutual Funds
@@ -103,6 +104,7 @@ EN
 ಕನ್ನಡ
 தமிழ்
 বাংলা
+A Demat account stores shares and securities in electronic form, making investing safer, faster, and easier for Indian investors by replacing paper certificates.
 We all know about savings accounts with banks. It allows easy access to our funds while offering security from theft and mishandling. A Demat account does the same for investors. Nowadays, the Demat account is a prerequisite for stock investment.
 Demat Account is an account that is used to hold shares and securities in electronic format. The full form of
 Demat account is a dematerialised account. The purpose of
@@ -163,7 +165,7 @@ What Do DP Charges Mean?
 Load More
 Importance of Demat account
 A Demat account provides a digitally secure and convenient way of holding shares and securities. It eliminates theft, forgery, loss and damage of physical certificates. With a Demat account, you can transfer securities immediately. Once the trade is approved, the shares are digitally transferred to your account. Moreover, in case events like stock bonuses, mergers, etc., you get shares automatically into your account. Your Demat account information regarding these activities is available online by simply logging into the website. You can trade on-the-go using your smartphone or desktop. So, you needn’t visit the stock exchange to transact. You also enjoy the benefit of reduced transaction costs because there is no stamp duty involved with the transfer of shares. These features and benefits of a Demat account encourage a larger trade volume by investors, thus increasing the potential for lucrative returns.
-Demat account has made it easier to handle stocks. The Indian exchanges now follow the settlement cycle of T+2 days facilitated by the Demat account. You pay the seller on the second business day when you buy shares following the settlement cycle, and your Demat account gets automatically credited with the purchased securities. Demat account has made the process of security trading seamless and hassle-free.
+Demat account has made it easier to handle stocks. Indian exchanges have transitioned to a primary settlement cycle of T+1 days. This means that when you buy shares, the settlement (transfer of shares to your Demat account and funds to the seller) typically occurs on the next business day following the trade. Demat account has made the process of security trading seamless and hassle-free.
 Benefits of Demat account
 Seamless and fast transfer of shares
 Facilitates digitally secured storing of securities
@@ -213,6 +215,7 @@ foreign locations.
 SEBI has made it mandatory for investors to have a Demat account. You can't trade in the Indian stock exchange if
 you don't have a Demat. Update yourself on the account opening process, charges, and select a trusted depository
 participant.
+Documents required for Demat account opening
 There is a list of documents needed to open a Demat account, including personal details and bank/income details.
 Here is a list of the documents required.
 Proof of identity
@@ -223,6 +226,20 @@ PAN card
 Passport size photographs
 The online method has made the account opening process simple. You can now set up a Demat account by submitting
 documents and completing KYC online.
+Demat Account Charges
+While opening a Demat account is often free, especially when you use online brokers or fintech platforms, there are a few charges you should know about before you get started. These costs can vary based on your Depository Participant (DP).
+1. Account Opening Fee
+Some brokers charge a one-time fee for opening a Demat account, typically in the range of ₹200 to ₹500. However, many modern brokers, especially online discount platforms, waive this fee altogether as part of promotional offers.
+2. Annual Maintenance Charges (AMC)
+AMC is a recurring fee charged by your broker or DP for maintaining your Demat account. It usually ranges between ₹300 and ₹700 per year. Some brokers offer zero AMC for the first year, and others even provide lifetime free AMC to attract new users.
+3. Transaction Charges
+Every time you sell shares, your Demat account is debited, and a small transaction fee is applied. These charges are typically ₹10 to ₹25 per transaction or a flat percentage of the trade value.
+4. Dematerialisation and Rematerialisation Charges
+If you still hold physical share certificates and want to convert them into electronic form (dematerialisation), your DP may charge ₹5 to ₹10 per certificate. Similarly, converting digital holdings back to physical format (rematerialisation) also incurs some cost.
+5. Custodian Fees
+These are nominal charges levied for holding securities in your Demat account. In most cases, this fee is absorbed by the broker, especially with retail investors, so you may not see it directly.
+6. Pledge and Unpledge Charges
+If you pledge your shares as collateral for a loan or for margin trading, additional charges may apply. These can vary from ₹25 to ₹100 depending on the broker and the value of securities involved..
 Benefits of opening a Demat Account with Angel One
 Like any other DP, Angel One offers a Demat account opening service that comes with a hoard of benefits.
 Angel One is one of the most renowned stockbroking houses in India. The Angel Group is a member of the
@@ -334,6 +351,22 @@ Can I have two Demat accounts?
 A trader may open multiple Demat accounts, however they can open only one trading account with a broker. Investors would want to have more than one Demat account if they are active traders and use each Demat account for a different trading strategy. However, they should also keep in mind the transaction and operation (AMC) fees associated with each account.
 What is Demat account and its benefits?
 A Demat account is a type of account that holds securities in electronic form. It is short for Dematerialized Account. There are several benefits to using a Demat account. First, it is more convenient than holding physical securities. Demat accounts make it easier to trade securities, you can buy and sell securities online.
+Can I open a Demat account without a trading account?
+Yes, you can open a Demat account without a trading account if you only wish to hold securities. However, to buy or sell shares, a trading account is necessary.
+Is it mandatory to have a Demat account to invest in mutual funds?
+No, a Demat account is not mandatory for investing in mutual funds. You can invest through asset management companies or platforms without using a Demat account.
+Can I transfer shares from one Demat account to another?
+Yes, you can transfer shares between Demat accounts by
+submitting
+a delivery instruction slip (DIS) to your Depository Participant. This process usually takes 1–2 days.
+What happens to my Demat account if I stop using it?
+If your account is inactive for a long time, it may be frozen or marked dormant.
+You’ll
+need to complete KYC again to reactivate it.
+Are Demat accounts safe from fraud or hacking?
+Yes, Demat accounts are regulated by SEBI and protected with security features like two-factor authentication. However,
+it’s
+important to use strong passwords and stay alert for phishing.
 Open Free Demat Account!
 Join our 3 Cr+ happy customers
 +91
@@ -361,7 +394,6 @@ Technology Enabled
 Trade or invest anywhere, anytime with our App or web platforms
 Fast-track your investing journey with Us,  India’s fastest growing fintech company
 +91
-Select City
 By proceeding, I agree to
 T&C
 and

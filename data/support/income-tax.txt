@@ -60,6 +60,7 @@ NFO
 ETF
 Commodity
 Upcoming IPO
+F&O
 Mutual Funds & SIP
 SIP Calculator
 Mutual Funds
@@ -132,16 +133,16 @@ HRA Calculator
 TDS Calculator
 EXPLORE ALL
 Top MF ELSS Schemes
+SBI Long Term Equity Fund Direct Plan IDCW Reinvestment
 Motilal Oswal ELSS Tax Saver Fund Direct IDCW Payout Payout
 Motilal Oswal ELSS Tax Saver Fund
-SBI Long Term Equity Fund Direct Plan IDCW Payout
-SBI Long Term Equity Fund
-ITI ELSS Tax Saver Fund
-HDFC ELSS Tax Saver IDCW Direct Plan Payout
-HDFC ELSS Tax Saver
-SBI Long Term Equity Fund Direct Plan IDCW Reinvestment
-ITI ELSS Tax Saver Fund Direct Plan IDCW Payout
-Sundaram Long Term Micro Cap Tax Advantage Fund Series Iv
+HSBC ELSS Tax Saver Fund Direct IDCW Reinvestment Reinvestment
+HSBC ELSS Tax Saver Fund Direct IDCW Payout Payout
+HSBC ELSS Tax Saver Fund
+SBI ELSS Tax Saver Fund Direct Plan IDCW Payout
+SBI ELSS Tax Saver Fund
+Bank of India ELSS Tax Saver Direct Plan IDCW Reinvestment
+Baroda BNP Paribas ELSS Tax Saver Fund
 EXPLORE ALL
 Open Free Demat Account!
 Join our 3 Cr+ happy customers
@@ -166,7 +167,6 @@ Technology Enabled
 Trade or invest anywhere, anytime with our App or web platforms
 Fast-track your investing journey with Us,  India’s fastest growing fintech company
 +91
-Select City
 By proceeding, I agree to
 T&C
 and

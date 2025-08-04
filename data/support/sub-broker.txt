@@ -60,6 +60,7 @@ NFO
 ETF
 Commodity
 Upcoming IPO
+F&O
 Mutual Funds & SIP
 SIP Calculator
 Mutual Funds
@@ -122,6 +123,7 @@ Exploring the Different Types of Authorised Person Exams
 3 Good Courses for Authorised Person in India
 Load More
 Select Current City
+Select Current City
 Open Free Demat Account!
 Join our 3 Cr+ happy customers
 +91
@@ -145,7 +147,6 @@ Technology Enabled
 Trade or invest anywhere, anytime with our App or web platforms
 Fast-track your investing journey with Us,  India’s fastest growing fintech company
 +91
-Select City
 By proceeding, I agree to
 T&C
 and
