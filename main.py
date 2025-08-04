@@ -1,7 +1,7 @@
 import src.scraper as scraper
 import src.pdf_ingest as pdf_ingest
 import src.index_and_embed as index_and_embed
-import src.rag as rag
+import src.rag_logic as rag
 
 # scraper.main()
 # pdf_ingest.main()
